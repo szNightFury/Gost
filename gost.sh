@@ -11,8 +11,8 @@
 # - 卸载 Gost 服务及程序
 #
 # 使用方法:
-#   chmod +x gost-helper.sh
-#   sudo ./gost-helper.sh
+#   chmod +x gost.sh
+#   sudo ./gost.sh
 # ==============================================================================
 
 # --- 配置 ---
